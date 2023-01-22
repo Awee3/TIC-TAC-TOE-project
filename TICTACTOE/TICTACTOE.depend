@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670862013 source:c:\users\wildan\onedrive\desktop\codeblock\dasprog\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1669644109 source:c:\users\wildan\onedrive\desktop\codeblock\dasprog\tictactoe\fungsi_ttt.c
+
